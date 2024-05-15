@@ -5,6 +5,7 @@ public class Tedi{
    num++;
   ++num;
  num = num-1;
+ //jjjjjjjj3e
  num--;
  num = num*2;
  num = num*num;
